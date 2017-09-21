@@ -1,5 +1,5 @@
-counter = 0
-while counter < 10
-  puts "Wingdarium Leviosa"
-  counter += 1
+levitationForce = 0
+while levitationForce < 10
+  puts "Wingardium Leviosa"
+  levitationForce += 1
 end
